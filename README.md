@@ -1,0 +1,2 @@
+# tareas
+Practicas Inteligencia Artificial
